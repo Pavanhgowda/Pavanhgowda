@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Cloud Best Practices**
 
-💬 Ask me about **Node.js, React, AWS,DEVOPS... or anything 
+💬 Ask me about **Node.js, React, AWS,DEVOPS... or anything**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
